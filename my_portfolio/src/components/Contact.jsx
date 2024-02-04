@@ -34,7 +34,7 @@ const Contact = () => {
           <a href="www.linkedin.com/in/ayonsom"className={style.link}><FaLinkedin className={style.icon}/>{"Linkedin"}</a>
         </li> 
         <li>  
-          <a href="https://github.com/RinkaKesh"className={style.link}><FaGithub className={style.icon}/>{"GitHub"}</a>
+          <a href="https://github.com/ayonsom"className={style.link}><FaGithub className={style.icon}/>{"GitHub"}</a>
         </li>
         <li>
           <a href="tel:08709455819"className={style.link}><IoMdCall className={style.icon}/>Tel:+91-8709455819</a>
